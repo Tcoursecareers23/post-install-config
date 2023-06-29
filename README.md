@@ -20,34 +20,6 @@ This section outlines the post-install configuration of the open-source help des
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+![Screenshot 2023-06-29 165751](https://github.com/Tcoursecareers23/post-install-config/assets/138035327/805dc978-568c-4679-8ac4-5decdb71962e)
 
-<h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
+![Screenshot 2023-06-29 170321](https://github.com/Tcoursecareers23/post-install-config/assets/138035327/8225acbc-0c73-4e46-b494-1c6dea854607)
