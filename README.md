@@ -23,3 +23,5 @@ This section outlines the post-install configuration of the open-source help des
 ![Screenshot 2023-06-29 165751](https://github.com/Tcoursecareers23/post-install-config/assets/138035327/805dc978-568c-4679-8ac4-5decdb71962e)
 
 ![Screenshot 2023-06-29 170321](https://github.com/Tcoursecareers23/post-install-config/assets/138035327/8225acbc-0c73-4e46-b494-1c6dea854607)
+
+![Screenshot 2023-06-29 170848](https://github.com/Tcoursecareers23/post-install-config/assets/138035327/e6ba6590-d84e-4506-9ff2-2ffa62854158)
